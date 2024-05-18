@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://spaceheroes.ctfd.io/
+HostUrl=https://fef4ac67f1d645b9a1a93f131f8b67e4.s3.amazonaws.com/b585b52e23960a5e3f026c8048c46d98/falling.bin?response-content-disposition=attachment%3B%20filename%3Dfalling.bin&response-cache-control=max-age%3D3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYQYMCZZ4XKP4EWFF%2F20240414%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240414T070000Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=42805ee851b2a3ba2352a47517b5ea669fd48451ae7d35366803ed59d47e426d

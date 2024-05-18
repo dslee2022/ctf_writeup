@@ -1,0 +1,6 @@
+from pwn import *
+p = remote("spaceheroes-atm.chals.io", 443, ssl=True, sni="spaceheroes-atm.chals.io")
+
+p.recvuntil(b"Welcome to the ATM (Alien Time Machine)! Please select an option from the list below:")
+
+p.sendline(b

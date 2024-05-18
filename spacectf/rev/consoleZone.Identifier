@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://spaceheroes.ctfd.io/
+HostUrl=https://fef4ac67f1d645b9a1a93f131f8b67e4.s3.amazonaws.com/d09b046606034d717ef1aa4e8b481af3/console?response-content-disposition=attachment%3B%20filename%3Dconsole&response-cache-control=max-age%3D3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYQYMCZZ4XKP4EWFF%2F20240414%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240414T080000Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ebc31f993b9e73834bebc1e17014493d8971d686b3b6aeea5d8066d0d7939dad
